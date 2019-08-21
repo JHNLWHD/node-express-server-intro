@@ -1,0 +1,24 @@
+{
+  "name": "node-express-server-intro",
+  "version": "1.0.0",
+  "description": "This is a reference for the NodeJS and Express intro tutorial. Using this, you can create a basic JSON server. If you get stuck in the tutorial, you can use this as a reference.",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHNLWHD/node-express-server-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JHNLWHD/node-express-server-intro/issues"
+  },
+  "homepage": "https://github.com/JHNLWHD/node-express-server-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
